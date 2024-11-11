@@ -37,7 +37,3 @@ Execute o script em seu ambiente de Python preferido.
 Conclusão
 A análise de churn é essencial para compreender o comportamento dos clientes e desenvolver estratégias para aumentar a retenção. Os resultados deste projeto podem ser utilizados para informar decisões de negócios e melhorar a experiência do cliente.
 
-Observações
-Sinta-se à vontade para personalizar qualquer parte do README de acordo com suas necessidades ou preferências!
-Certifique-se de incluir informações adicionais, como links para o repositório do GitHub ou dados, se necessário.
-Se precisar de mais ajustes ou detalhes, é só avisar!
