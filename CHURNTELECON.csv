@@ -1,0 +1,5 @@
+unnamed:_0;customerid;genero;idoso;casado;dependents;tempo_como_cliente;phoneservice;servico_internet;servico_seguranca;suporte_tecnico;streamingtv;tipo_contrato;paymentmethod;pagamento_mensal;total_pago;churn
+0;7590-VHVEG;Female;0;Yes;No;1;No;dsl;No;No;No;Month-to-month;Electronic check;29.850.000;29.85;No
+1;5575-GNVDE;Male;0;No;No;34;Yes;dsl;Yes;No;No;One year;Mailed check;56.950.000;1889.50;No
+2;3668-QPYBK;Male;0;No;No;2;Yes;dsl;Yes;No;No;Month-to-month;Mailed check;53.850.000;108.15;Yes
+3;7795-CFOCW;Male;0;No;No;45;No;dsl;Yes;Yes;No;One year;bank_transfer;46.883.333;1840.75;No
